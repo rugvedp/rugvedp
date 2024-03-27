@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rugvedp&label=Profile%20views&color=0e75b6&style=flat" alt="rugvedp" /> </p>
 
-- 🔭 I’m currently working on **image/video classification model**
+- 🔭 I’m currently working on **Image/video classification model**
 
 - 🌱 I’m currently learning **Deep learning**
 
