@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rugved Patil</h1>
 <h3 align="center">Passionate about Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rugvedp&label=Profile%20views&color=0e75b6&style=flat" alt="rugvedp" /> </p>
-
 - 🔭 I’m currently working on **Image/video classification model**
 
 - 🌱 I’m currently learning **Deep learning**
